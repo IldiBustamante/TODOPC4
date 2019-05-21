@@ -1,0 +1,55 @@
+
+*{  box-sizing: border-box;
+    background-color: khaki;}
+
+#Contenedor{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+/* El padre(contenedor) puede tener flex-direction
+justify-content
+align-items
+align-content
+flex-wrap
+flex-flow 
+Con flex me quedan todas las etiquetas una al lado de la otra y viene con la direccion fila predeterminada
+
+una direction de flex son row,column, row-reverse,column-reverse
+la column es lo normal, de todas las etiquetas
+
+Los hijos pueden
+
+#Ildara{
+    background-color:hsla(270deg, 100%, 50%, 0.410);
+    width: 100px;
+    height: 100px;
+    padding: 10px 5px 34px 23px;
+    border-width: 4px;
+    border-style:none;
+    border-color: crimson;
+    border: 4px none crimson;
+}
+
+/* si tengo que poner un valor
+escribo rgb()
+escribo rgba()
+escribo hsl()
+escribo hsla()
+
+No se recomiendan los predeterminados
+Dentro de los parentesis llevan tantos numeros como letras del nombre
+o sea (3,2,5) para rgb y hsl
+de 0 a 255 para rgb y rgba
+
+Funcionan como "acuarelas"
+rgba tiene alfa que es la opacidad, entre 0 a 1 
+
+Padding escribo todos los valores de cada lado por separado en px y funciona rapido
+
+box sizing nos define lo que queremos respetar con content box y border box
+
+
+*/
