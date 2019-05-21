@@ -1,0 +1,7 @@
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploSwitch\obj\Debug\EjemploSwitch.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploSwitch\bin\Debug\EjemploSwitch.exe.config
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploSwitch\bin\Debug\EjemploSwitch.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploSwitch\bin\Debug\EjemploSwitch.pdb
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploSwitch\obj\Debug\EjemploSwitch.csprojAssemblyReference.cache
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploSwitch\obj\Debug\EjemploSwitch.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploSwitch\obj\Debug\EjemploSwitch.pdb

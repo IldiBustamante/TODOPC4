@@ -1,0 +1,7 @@
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploIF\obj\Debug\EjemploIF.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploIF\obj\Debug\EjemploIF.csprojAssemblyReference.cache
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploIF\bin\Debug\EjemploIF.exe.config
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploIF\bin\Debug\EjemploIF.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploIF\bin\Debug\EjemploIF.pdb
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploIF\obj\Debug\EjemploIF.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\EjemploIF\obj\Debug\EjemploIF.pdb

@@ -1,0 +1,7 @@
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\ConsolaClase3\bin\Debug\ConsolaClase3.exe.config
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\ConsolaClase3\bin\Debug\ConsolaClase3.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\ConsolaClase3\bin\Debug\ConsolaClase3.pdb
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\ConsolaClase3\obj\Debug\ConsolaClase3.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\ConsolaClase3\obj\Debug\ConsolaClase3.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\ConsolaClase3\obj\Debug\ConsolaClase3.pdb
+C:\Users\t11641.training03\Desktop\Carpeta .NET\Clase3\ConsolaClase3\ConsolaClase3\obj\Debug\ConsolaClase3.csprojAssemblyReference.cache
