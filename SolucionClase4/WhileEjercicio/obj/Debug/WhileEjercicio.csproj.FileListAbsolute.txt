@@ -1,0 +1,7 @@
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\WhileEjercicio\bin\Debug\WhileEjercicio.exe.config
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\WhileEjercicio\bin\Debug\WhileEjercicio.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\WhileEjercicio\bin\Debug\WhileEjercicio.pdb
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\WhileEjercicio\obj\Debug\WhileEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\WhileEjercicio\obj\Debug\WhileEjercicio.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\WhileEjercicio\obj\Debug\WhileEjercicio.pdb
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\WhileEjercicio\obj\Debug\WhileEjercicio.csprojAssemblyReference.cache

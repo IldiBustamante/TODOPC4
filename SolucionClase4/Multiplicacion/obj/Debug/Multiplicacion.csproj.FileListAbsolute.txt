@@ -1,0 +1,7 @@
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\Multiplicacion\bin\Debug\Multiplicacion.exe.config
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\Multiplicacion\bin\Debug\Multiplicacion.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\Multiplicacion\bin\Debug\Multiplicacion.pdb
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\Multiplicacion\obj\Debug\Multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\Multiplicacion\obj\Debug\Multiplicacion.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\Multiplicacion\obj\Debug\Multiplicacion.pdb
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\Multiplicacion\obj\Debug\Multiplicacion.csprojAssemblyReference.cache

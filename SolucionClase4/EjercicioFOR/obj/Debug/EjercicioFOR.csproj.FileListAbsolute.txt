@@ -1,0 +1,6 @@
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\EjercicioFOR\obj\Debug\EjercicioFOR.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\EjercicioFOR\bin\Debug\EjercicioFOR.exe.config
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\EjercicioFOR\bin\Debug\EjercicioFOR.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\EjercicioFOR\bin\Debug\EjercicioFOR.pdb
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\EjercicioFOR\obj\Debug\EjercicioFOR.exe
+C:\Users\t11641.training03\Desktop\Carpeta .NET\SolucionClase4\EjercicioFOR\obj\Debug\EjercicioFOR.pdb
